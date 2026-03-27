@@ -22,6 +22,7 @@ The project simulates a simple CPU with visible data paths, control signals, and
 >ALU
 <img width="944" height="372" alt="Screenshot 2026-03-27 122649" src="https://github.com/user-attachments/assets/ed9dc798-39ea-453e-aacc-afefd1b9c351" />
 >Simple Memory
+
 ## 📁 Main Components
 
 - Half Adder & Full Adder
